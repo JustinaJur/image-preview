@@ -3,7 +3,7 @@ Example of fetched images from fake endpoint and their preview with posibility t
 any selected image.
 
 # How to run the app
-Open html file in a browser. 
+Open index.html file in a browser. 
 
 # Technologies used
 JavaScript
